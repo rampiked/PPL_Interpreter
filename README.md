@@ -1,4 +1,4 @@
-# PPL_Interpreter
+# PPL Interpreter (C++ Virtual Machine)
 Designed and implemented a custom instruction set architecture (ISA) and interpreter in C++11, using object-oriented polymorphism to model executable instructions.
 
 All of the PPL interpreter code is located in main.cpp.
