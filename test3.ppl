@@ -1,0 +1,10 @@
+#Potentially not as expected. Do some research...
+LIST A
+LIST B
+INTEGER n
+ASSIGN n 1
+MERGE n A
+MERGE A B
+COPY B C
+TAIL B D
+HLT
